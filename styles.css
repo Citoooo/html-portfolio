@@ -1,0 +1,80 @@
+.contact-message {
+    width: 40%
+    margin 40px auto 60px;
+}
+
+p {
+    line-height: 2;
+}
+
+p {
+    display: block;
+    margin-block-start:  1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body {
+    color: #40514e;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.background {
+    width: 2500px;
+    height: 650px;
+    text-align: center;
+}
+
+.image-container {
+    position: relative;
+  }
+  
+  .image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+  }
+  
+  /* Styling for the text */
+  .image-text h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .image-text p {
+    font-size: 16px;
+  }
+
+  
+  h1 {
+    font-family: 'Montsserrat', sans-serif;
+    /* Additional styles for headings */
+  }
+
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+  }
+  
+  .my-element {
+    background-color: whitesmoke;
+    /* Additional styles for the element */
+  }
+  
+
+
